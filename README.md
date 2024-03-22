@@ -1,5 +1,12 @@
 # In Code Comment
 
+## Tech Stack
+
+- https://www.libsdl.org
+  - Basic UI
+- Pytho
+  - Basic format OI
+
 ## Outline
 
 - Able to hover on code to read comment
@@ -17,3 +24,22 @@
     - Learning from MD file format
 - Basic editing UI for using and reading Our program
   - Begaining with python, when the file format is done, turn to Java
+
+## File Format
+
+### Item
+
+#### Code Mapping
+
+- Variable Mapping
+- Funciton Mapping
+- File Mapping
+
+#### Comment Mapping
+
+- Variable comment
+- Function comment
+- File comment
+- Relation table
+  - Relation comment
+  - Relation path(Mapping)
